@@ -1,6 +1,6 @@
 
 def test():
-	print("AppVersion")
+	print("AppVersion 1.0.1")
 
 
 test()
